@@ -1,0 +1,15 @@
+Inventory System contains 4 products:
+Category: Foodstuffs, Total: 2
+ID: 1, Name: Apple, Price: 0.30Yuan, Storage Condition: Room Temperature, Status: In Stock, Location: Local
+
+ID: 4, Name: Banana, Price: 9.90Yuan, Storage Condition: Room Temperature, Status: In Stock, Location: Local
+
+-------------------------------------------------------------
+Category: Electronics, Total: 1
+ID: 2, Name: iPhone, Price: 999.99Yuan, Storage Condition: Room Temperature, Status: In Stock, Location: Local
+
+-------------------------------------------------------------
+Category: Chemicals, Total: 1
+ID: 3, Name: jiujing, Price: 0.20Yuan, Storage Condition: Room Temperature, Status: In Stock, Location: Local
+
+-------------------------------------------------------------

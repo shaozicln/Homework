@@ -1,0 +1,6 @@
+Products in Category: Foodstuffs (Total: 2)
+ID: 1, Name: Apple, Price: 0.30Yuan, Storage Condition: Room Temperature, Status: In Stock, Location: Local
+
+ID: 4, Name: Banana, Price: 9.90Yuan, Storage Condition: Room Temperature, Status: In Stock, Location: Local
+
+
